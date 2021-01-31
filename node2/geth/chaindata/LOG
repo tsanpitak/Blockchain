@@ -1,0 +1,74 @@
+=============== Jan 30, 2021 (PST) ===============
+23:25:41.742305 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+23:25:41.746306 db@open opening
+23:25:41.747306 version@stat F·[] S·0B[] Sc·[]
+23:25:41.750306 db@janitor F·2 G·0
+23:25:41.750306 db@open done T·4ms
+23:25:41.764309 db@close closing
+23:25:41.764309 db@close done T·0s
+=============== Jan 30, 2021 (PST) ===============
+23:26:54.046684 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+23:26:54.049671 version@stat F·[] S·0B[] Sc·[]
+23:26:54.049671 db@open opening
+23:26:54.049671 journal@recovery F·1
+23:26:54.054690 journal@recovery recovering @1
+23:26:54.058687 memdb@flush created L0@2 N·624 S·50KiB "\x01\xdd\xf3..,k\xe0,v320":"\xfe\x88\xcf..H\xef\xcc,v364"
+23:26:54.063692 version@stat F·[1] S·50KiB[50KiB] Sc·[0.25]
+23:26:54.069675 db@janitor F·3 G·0
+23:26:54.069675 db@open done T·20.0045ms
+=============== Jan 31, 2021 (PST) ===============
+07:51:16.499051 db@close closing
+07:51:16.500052 db@close done T·1.0015ms
+=============== Jan 31, 2021 (PST) ===============
+07:55:31.075117 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+07:55:31.077119 version@stat F·[1] S·50KiB[50KiB] Sc·[0.25]
+07:55:31.077119 db@open opening
+07:55:31.077119 journal@recovery F·1
+07:55:31.082434 journal@recovery recovering @3
+07:55:31.085455 memdb@flush created L0@5 N·3 S·510B "Dat..ion,v626":"cli..\xb7K\xb8,v627"
+07:55:31.091477 version@stat F·[2] S·51KiB[51KiB] Sc·[0.50]
+07:55:31.097494 db@janitor F·4 G·0
+07:55:31.097494 db@open done T·20.375ms
+07:55:32.273932 db@close closing
+07:55:32.273932 db@close done T·0s
+=============== Jan 31, 2021 (PST) ===============
+07:55:48.947471 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+07:55:48.947471 version@stat F·[2] S·51KiB[51KiB] Sc·[0.50]
+07:55:48.947471 db@open opening
+07:55:48.947471 journal@recovery F·1
+07:55:48.952469 journal@recovery recovering @6
+07:55:48.958470 version@stat F·[2] S·51KiB[51KiB] Sc·[0.50]
+07:55:48.974007 db@janitor F·4 G·0
+07:55:48.974007 db@open done T·26.536ms
+=============== Jan 31, 2021 (PST) ===============
+07:58:04.968845 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+07:58:04.972845 version@stat F·[2] S·51KiB[51KiB] Sc·[0.50]
+07:58:04.972845 db@open opening
+07:58:04.973849 journal@recovery F·1
+07:58:04.973849 journal@recovery recovering @8
+07:58:04.974849 version@stat F·[2] S·51KiB[51KiB] Sc·[0.50]
+07:58:04.980847 db@janitor F·4 G·0
+07:58:04.980847 db@open done T·8.0016ms
+07:58:04.992850 db@close closing
+07:58:04.992850 db@close done T·0s
+=============== Jan 31, 2021 (PST) ===============
+07:58:14.768394 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+07:58:14.768394 version@stat F·[2] S·51KiB[51KiB] Sc·[0.50]
+07:58:14.768394 db@open opening
+07:58:14.768394 journal@recovery F·1
+07:58:14.773393 journal@recovery recovering @10
+07:58:14.784955 memdb@flush created L0@12 N·1 S·390B "eth..\xb7K\xb8,v630":"eth..\xb7K\xb8,v630"
+07:58:14.790027 version@stat F·[3] S·51KiB[51KiB] Sc·[0.75]
+07:58:14.796019 db@janitor F·5 G·0
+07:58:14.796019 db@open done T·27.6255ms
+=============== Jan 31, 2021 (PST) ===============
+08:02:45.284508 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+08:02:45.284508 version@stat F·[3] S·51KiB[51KiB] Sc·[0.75]
+08:02:45.284508 db@open opening
+08:02:45.284508 journal@recovery F·1
+08:02:45.289515 journal@recovery recovering @13
+08:02:45.295517 version@stat F·[3] S·51KiB[51KiB] Sc·[0.75]
+08:02:45.310540 db@janitor F·5 G·0
+08:02:45.310540 db@open done T·26.0321ms
+10:04:27.921160 db@close closing
+10:04:27.922161 db@close done T·1.0012ms
